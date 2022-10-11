@@ -1,5 +1,6 @@
 import org.apache.tools.ant.taskdefs.condition.Os
 
+
 pluginManagement {
     repositories {
         gradlePluginPortal()
